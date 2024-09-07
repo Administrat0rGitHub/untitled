@@ -14,6 +14,7 @@ fun main(args: Array<String>) {
                 result = result + prevChar
             }
             countChar = 1
+
             prevChar = InputVal[i]
 
         }
